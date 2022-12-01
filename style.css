@@ -1,0 +1,133 @@
+.style-1a{
+    font-family: 'Lobster', cursive;
+}
+.home-writeup{
+    font-family: 'Roboto', sans-serif;
+}
+a:hover{
+    color: aqua;
+}
+.home-display-flex{
+    display: flex;
+    gap: 1rem;
+    color: black;
+}
+.search-display-flex{
+    display: flex;
+    gap: 1rem;
+    color: black;
+}
+.explore-display-flex{
+    display: flex;
+    gap: 0.7rem;
+    color: black;
+}
+.message-display-flex{
+    display: flex;
+    gap: 1rem;
+    color: black;
+}
+.notification-display-flex{
+    display: flex;
+    gap: 0.9rem;
+    color: black;
+}
+.create-display-flex{
+    display: flex;
+    gap: 1rem;
+    color: black;
+}
+.profile-display-flex{
+    display: flex;
+    gap: 1rem;
+    color: black;
+}
+.more-display-flex{
+    display: flex;
+    gap: 1rem;
+    color: black;
+}
+.navlist-lookalike{
+    border-right: 1px solid thick;
+}
+.pples-profile-pics{
+    align-items: stretch;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    position: relative;
+    overflow-x: auto;
+    overflow-y: hidden;
+    gap: 3rem;
+    margin-left: 20px;
+}
+.nav-container{
+    background-color: white;
+    border-style: groove;
+    border-radius: 25px;
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 600px;
+    height: 80px;
+}
+.two-b{
+    border-style: groove;
+    border-radius: 10px;
+    width: 600px;
+    height: 900px;
+}
+.two-b-firstrow{
+    display: flex;
+    margin-top: 15px;
+}
+.sam-story{
+    display: flex;
+    gap: 0.8rem;
+}
+.diff-insta-icons{
+    display: flex;
+    gap: 1rem;
+}
+.insta-icons-collection{
+    display: flex;
+    gap: 30rem;
+}
+.comment-names{
+    display: flex;
+    gap: 15rem;
+}
+.comment-names-b{
+    display: flex;
+    gap: 15rem;
+}
+.comment-time{
+    color: gray;
+}
+.happy-icon{
+    display: flex;
+    gap: 19.5rem;
+}
+.two-c-firstrow{
+    display: flex;
+    margin-top: 15px;
+}
+.my-profile-pics{
+    display: flex;
+    gap: 1rem;
+}
+.my-profile-picsname{
+    display: flex;
+    gap: 15rem;
+    margin-top: 25px;
+}
+.two-in-one-section{
+    display: flex;
+    gap: 7rem;
+}
+.three-sections{
+    display: flex;
+    gap: 10rem;
+}
+.section-one{
+    border-right:groove ;
+}
